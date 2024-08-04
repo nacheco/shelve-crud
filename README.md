@@ -1,6 +1,5 @@
 # Pantry App
-
-[![Pantry App](https://github.com/user-attachments/assets/114e3708-f658-41d1-9234-ca60ddc7a6ec)](https://pantry-app-911r.vercel.app/)
+![image 11](https://github.com/user-attachments/assets/70d460cb-db24-4e3a-add4-2930985849f4)
 
 ## Description
 
